@@ -11,7 +11,6 @@ public class DataBaseConnection {
 		
 		try {
 			
-	                Syso("heeeeeeeeeeeeeeeeeee");
 			Class.forName("oracle.jdbc.driver.OracleDriver");
 	        
 			System.out.println("Driver established connection");

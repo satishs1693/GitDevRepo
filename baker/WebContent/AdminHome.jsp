@@ -9,7 +9,7 @@
 h2
 {
   color:#003366;
-  sys
+  System.out.println("Heloooooooooooooooooooooooooooooooooooooooooooooooooooo");
   color:#003366;
   text-align:center;
   margin-left:350px;
@@ -93,7 +93,7 @@ width: 200px;
 
 <br/>
 <div id="footer">
-Copyright © BiharBakery.com
+Copyright Â© BiharBakery.com
 </div>
 
 
